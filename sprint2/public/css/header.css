@@ -1,11 +1,12 @@
 header{
-
+    height: 50px;
 }
 header nav ul{
-    
+    background-color: turquoise;
 }
 header nav ul li{
     list-style: none;
+    background-color: wheat;
 }
 header nav ul li a{
     text-decoration: none;
