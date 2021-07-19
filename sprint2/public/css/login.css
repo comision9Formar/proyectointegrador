@@ -1,5 +1,14 @@
+.login{
+    background-color: whitesmoke;
+}
+
 .login h1{
     font-size: 4rem;
     color: crimson;
     background-color: burlywood;
+}
+
+.login section{
+    width: 300px;
+    background-color: white;
 }
