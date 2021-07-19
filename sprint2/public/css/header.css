@@ -1,8 +1,8 @@
 header{
-
+    padding: 20px;
 }
 header nav ul{
-    
+    background-color: aqua;
 }
 header nav ul li{
     list-style: none;
@@ -11,4 +11,5 @@ header nav ul li a{
     text-decoration: none;
     color: grey;
     font-size: 2rem;
+    padding: 5px;
 }
