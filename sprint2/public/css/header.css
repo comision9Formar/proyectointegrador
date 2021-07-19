@@ -2,7 +2,7 @@ header{
     padding: 20px;
 }
 header nav ul{
-    background-color: aqua;
+    background-color: violet;
 }
 header nav ul li{
     list-style: none;
